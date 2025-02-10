@@ -30,7 +30,7 @@ function Footer() {
 
                 {/* Copyright */}
                 <p className="text-sm font-light">
-                    &copy; 2025 Designed by <a href='https://azuracoder.vercel.app/' className="font-medium underline">AzuraCoder</a> | Developed by <span className="font-medium">Novalhasmi</span>
+                    &copy; 2025 Designed by <a href='https://www.figma.com/@rauliqbal' className="font-medium underline">Rauliqbal</a> | Developed by <span className="font-medium">Novalhasmi</span>
                 </p>
             </div>
         </footer>
