@@ -1,8 +1,44 @@
-# React + Vite
+# NH Travel
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![NH Travel](https://nh-travel.vercel.app/favicon.ico)
 
-Currently, two official plugins are available:
+NH Travel adalah sebuah website landing page untuk layanan perjalanan wisata yang dirancang untuk memberikan pengalaman pengguna yang menarik dan responsif.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌍 Live Preview
+Kamu bisa melihat website ini secara langsung di:
+[🔗 NH Travel](https://nh-travel.vercel.app/)
+
+## 📌 Fitur Utama
+- Desain modern dan responsif
+- Navigasi yang mudah digunakan
+- Informasi perjalanan yang menarik
+- Animasi interaktif
+
+## 🛠️ Teknologi yang Digunakan
+- React
+- Tailwind CSS
+- CSS
+
+## 🎨 Desain oleh
+[![Figma](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg)](https://www.figma.com/@rauliqbal)
+
+## 📂 Cara Menjalankan Proyek
+1. Clone repository ini:
+   ```sh
+   git clone https://github.com/zen-Hikari/NH-Travel.git
+   ```
+2. Masuk ke direktori proyek:
+   ```sh
+   cd Travel
+   ```
+3. Install dependencies:
+   ```sh
+   pnpm install
+   ```
+4. Jalankan proyek:
+   ```sh
+   pnpm run dev
+   ```
+
+---
+Dibuat dengan ❤️ oleh [Zen Hikari]
