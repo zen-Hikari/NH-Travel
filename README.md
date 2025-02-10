@@ -20,7 +20,9 @@ Kamu bisa melihat website ini secara langsung di:
 - CSS
 
 ## 🎨 Desain oleh
-[![Figma](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg)](https://www.figma.com/@rauliqbal)
+<a href="https://www.figma.com/@rauliqbal" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="50" />
+</a>
 
 ## 📂 Cara Menjalankan Proyek
 1. Clone repository ini:
