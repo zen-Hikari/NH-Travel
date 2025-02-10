@@ -1,6 +1,6 @@
 # NH Travel
 
-![NH Travel](https://nh-travel.vercel.app/favicon.ico)
+![NH Travel](https://raw.githubusercontent.com/zen-Hikari/NH-Travel/d1c384a68bb879b2bb258c62bec6de7757a29896/src/components/assets/logo.svg)
 
 NH Travel adalah sebuah website landing page untuk layanan perjalanan wisata yang dirancang untuk memberikan pengalaman pengguna yang menarik dan responsif.
 
